@@ -1,0 +1,11 @@
+#app1 {
+    border: 1px solid red;
+    /* 屏幕的一半 */
+    width: 50vw;
+    height: 50vh;
+}
+
+#app1 .output {}
+
+#app1 .actions {}
+/*# sourceMappingURL=index.2d7055af.css.map */

@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/app1.css"],"sourcesContent":["#app1 {\r\n    border: 1px solid red;\r\n    /* 屏幕的一半 */\r\n    width: 50vw;\r\n    height: 50vh;\r\n}\r\n\r\n#app1 .output {}\r\n\r\n#app1 .actions {}"],"names":[],"version":3,"file":"index.2d7055af.css.map","sourceRoot":"/__parcel_source_root/"}
